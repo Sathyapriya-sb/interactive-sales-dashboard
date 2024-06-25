@@ -31,7 +31,7 @@ To use the Interactive Sales Analytics Dashboard, you will need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/InteractiveSalesAnalyticsDashboard.git
+   git clone git clone https://github.com/Sathyapriya-sb/interactive-sales-dashboard.git
    ```
 
 2. **Open the Dashboard**:
